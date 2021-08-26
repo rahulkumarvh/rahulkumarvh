@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**rahulkumarvh/rahulkumarvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+- 🔭 I'm a MERN Developer, Data Scientist, and a Freelance Graphic Designer
+- 🌱 I’m currently pursing my B.tech in Computer Science and Engineering 
+- 👯 I’m open to collabrating on intresting projects with real world application and impact
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumarvh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahulkumarvh&show_icons=true&theme=tokyonight" alt="Rahul Kumar VH :: Profile Stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarvh&theme=tokyonight&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rahulkumarvh}/count.svg" alt="Rahul Kumar VH :: Visitor's Count" /></p>
