@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Profile
 
-- 🔭 I'm a MERN Developer, Data Scientist, and a Freelance Graphic Designer
+- 🔭 I'm a MERN Developer, Data Scientist, and a Graphic Designer
 - 🌱 I’m currently pursing my B.tech in Computer Science and Engineering 
 - 👯 I’m open to collabrating on intresting projects with real world application and impact
 <br>
