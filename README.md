@@ -3,7 +3,7 @@
 # Welcome to my GitHub Profile
 
 - 🔭 I'm a MERN Developer, Data Scientist, and a Graphic Designer
-- 🌱 I’m currently pursing my B.tech in Computer Science and Engineering 
+- 🌱 I’m currently pursing Master's in Computer Science and Engineering from the University of Illinois Urbana Champaign
 - 👯 I’m open to collabrating on intresting projects with real world application and impact
 <br>
 
