@@ -8,6 +8,5 @@
 <br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarvh&theme=tokyonight&layout=compact" alt="Rahul Kumar VH :: Top language" /></p>
-<p align="left"><img src="https://profile-counter.glitch.me/{rahulkumarvh}/count.svg" alt="Rahul Kumar VH :: Visitor's Count" /></p>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
